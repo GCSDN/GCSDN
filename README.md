@@ -1,4 +1,4 @@
-- 👋 oi, eu sou @GCSDN (Gilvan)
+- 👋 oi, eu sou Gilvan
 - 👀 estou interessado em html,css,frame work,java
 - 🌱 Atualmente estou aprendendo git e github
   
