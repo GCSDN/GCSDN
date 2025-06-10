@@ -1,5 +1,5 @@
 - 👋 oi, eu sou Gilvan
-- 👀 estou interessado em html,css,frame work,java
+- 👀 estou interessado em python
 - 🌱 Atualmente estou aprendendo git e github
   
 
